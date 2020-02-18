@@ -2,7 +2,7 @@
 
 ![alt text](https://miro.medium.com/proxy/0*ZSVUxU_Tr3rrvioS)
 
-\In this project, I have worked on predicting the quality of wine. For that I have used a variety of different models such as Logistic Regression, Logistic Regression with SMOTE, Decision Trees, Naive Bayes, Random Forest Classifier, SVM and XGB Classifier.
+In this project, I have worked on predicting the quality of wine. For that I have used a variety of different models such as Logistic Regression, Logistic Regression with SMOTE, Decision Trees, Naive Bayes, Random Forest Classifier, SVM and XGB Classifier.
 
 Let us first explore the dataset.
 Info Data\
