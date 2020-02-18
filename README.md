@@ -6,12 +6,16 @@ Let us first explore the dataset.
 Info Data
 ![alt text](https://i.imgur.com/jUfprPr.jpg)
 
+
 Checking for Null Values in the columns
 ![alt text](https://i.imgur.com/SLWEWHk.jpg)
 
 We see that there are no null values present the columns. Let us now try to visualize and see the data distribution among various classes of quality.
 After plotting the count plot for quality column with seaborn,
+
 ![alt text](https://i.imgur.com/yzWwOMQ.jpg)
+
+
 We can clearly observe that the data is not uniformly distributed among the different classes. Most of the wines in the dataset are of either quality 5 or 6. We have an imbalanced to deal with here.
 
 Let us now look at the correlation matrix of features and try to understand the data more.
